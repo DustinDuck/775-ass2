@@ -15,6 +15,12 @@ fvctl -n add-flowspace bfs9 0000000000000042 1 in_port=1 blue=7
 fvctl -n add-flowspace bfs10 0000000000000042 1 in_port=2 blue=7
 fvctl -n add-flowspace bfs11 0000000000000042 1 in_port=3 blue=7
 fvctl -n add-flowspace bfs12 0000000000000042 1 in_port=4 blue=7
+fvctl -n add-flowspace bfs13 0000000000000042 1 in_port=5 blue=7
+fvctl -n add-flowspace bfs14 0000000000000042 1 in_port=6 blue=7
+fvctl -n add-flowspace bfs15 0000000000000042 1 in_port=7 blue=7
+fvctl -n add-flowspace bfs16 0000000000000042 1 in_port=8 blue=7
+# L1_Acc-S19
+fvctl -n add-flowspace bfs17 0000000000000043 1 in_port=1 blue=7
 fvctl -n add-flowspace bfs18 0000000000000043 1 in_port=2 blue=7
 fvctl -n add-flowspace bfs19 0000000000000043 1 in_port=3 blue=7
 fvctl -n add-flowspace bfs20 0000000000000043 1 in_port=4 blue=7
