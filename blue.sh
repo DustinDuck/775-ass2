@@ -55,18 +55,18 @@ fvctl -n add-flowspace bfs36 0000000000000021 1 in_port=8,nw_src=10.0.0.77 blue=
 fvctl -n add-flowspace bfs36 0000000000000021 1 in_port=8,nw_src=10.0.0.78 blue=7
 fvctl -n add-flowspace bfs36 0000000000000021 1 in_port=8,nw_src=10.0.0.79 blue=7
 fvctl -n add-flowspace bfs36 0000000000000021 1 in_port=8,nw_src=10.0.0.80 blue=7
-# # L2_Agg-S18
-# fvctl -n add-flowspace bfs37 0000000000000022 1 in_port=5 blue=7
-# fvctl -n add-flowspace bfs38 0000000000000022 1 in_port=6 blue=7
-# fvctl -n add-flowspace bfs39 0000000000000022 1 in_port=7 blue=7
-# fvctl -n add-flowspace bfs40 0000000000000022 1 in_port=8 blue=7
-# # L2_Agg-S19
-# fvctl -n add-flowspace bfs41 0000000000000023 1 in_port=5 blue=7
-# fvctl -n add-flowspace bfs42 0000000000000023 1 in_port=6 blue=7
-# fvctl -n add-flowspace bfs43 0000000000000023 1 in_port=7 blue=7
-# fvctl -n add-flowspace bfs44 0000000000000023 1 in_port=8 blue=7
-# # L2_Agg-S20
-# fvctl -n add-flowspace bfs45 0000000000000024 1 in_port=5 blue=7
-# fvctl -n add-flowspace bfs46 0000000000000024 1 in_port=6 blue=7
-# fvctl -n add-flowspace bfs47 0000000000000024 1 in_port=7 blue=7
-# fvctl -n add-flowspace bfs48 0000000000000024 1 in_port=8 blue=7
+# L2_Agg-S18
+fvctl -n add-flowspace bfs37 0000000000000022 1 in_port=5 blue=7
+fvctl -n add-flowspace bfs38 0000000000000022 1 in_port=6 blue=7
+fvctl -n add-flowspace bfs39 0000000000000022 1 in_port=7 blue=7
+fvctl -n add-flowspace bfs40 0000000000000022 1 in_port=8 blue=7
+# L2_Agg-S19
+fvctl -n add-flowspace bfs41 0000000000000023 1 in_port=5 blue=7
+fvctl -n add-flowspace bfs42 0000000000000023 1 in_port=6 blue=7
+fvctl -n add-flowspace bfs43 0000000000000023 1 in_port=7 blue=7
+fvctl -n add-flowspace bfs44 0000000000000023 1 in_port=8 blue=7
+# L2_Agg-S20
+fvctl -n add-flowspace bfs45 0000000000000024 1 in_port=5 blue=7
+fvctl -n add-flowspace bfs46 0000000000000024 1 in_port=6 blue=7
+fvctl -n add-flowspace bfs47 0000000000000024 1 in_port=7 blue=7
+fvctl -n add-flowspace bfs48 0000000000000024 1 in_port=8 blue=7
