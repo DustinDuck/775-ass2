@@ -39,11 +39,11 @@ fvctl -n add-flowspace bfs31 0000000000000044 1 in_port=7 blue=7
 fvctl -n add-flowspace bfs32 0000000000000044 1 in_port=8 blue=7
 
 # L2_Agg-S17
-fvctl -n add-flowspace bfs33 0000000000000021 1 in_port=5,nw_src=10.0.0.65 blue=7 #L1_Acc-S17-eth1
+fvctl -n add-flowspace bfs33 0000000000000021 1 in_port=5,nw_src=10.0.0.65,nw_dst=10.0.0.69 blue=7 #L1_Acc-S17-eth1
 fvctl -n add-flowspace bfs33 0000000000000021 1 in_port=5,nw_src=10.0.0.66 blue=7
 fvctl -n add-flowspace bfs33 0000000000000021 1 in_port=5,nw_src=10.0.0.67 blue=7
 fvctl -n add-flowspace bfs33 0000000000000021 1 in_port=5,nw_src=10.0.0.68 blue=7
-fvctl -n add-flowspace bfs34 0000000000000021 1 in_port=6,nw_src=10.0.0.69 blue=7
+fvctl -n add-flowspace bfs34 0000000000000021 1 in_port=6,nw_src=10.0.0.69,nw_dst=10.0.0.65 blue=7
 fvctl -n add-flowspace bfs34 0000000000000021 1 in_port=6,nw_src=10.0.0.70 blue=7
 fvctl -n add-flowspace bfs34 0000000000000021 1 in_port=6,nw_src=10.0.0.71 blue=7
 fvctl -n add-flowspace bfs34 0000000000000021 1 in_port=6,nw_src=10.0.0.72 blue=7
