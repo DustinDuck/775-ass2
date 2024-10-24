@@ -21,7 +21,3 @@ fvctl -n add-flowspace pfs14 0000000000000016 1 in_port=5 purple=7
 # L3_C-S6
 fvctl -n add-flowspace pfs99 0000000000000006 1 in_port=1 purple=7
 fvctl -n add-flowspace pfs100 0000000000000006 1 in_port=2 purple=7
-
-
-
-# fvctl -n add-flowspace bfs2 0000000000000031 1 in_port=3,nw_src=10.0.0.15,nw_dst=10.0.0.2 blue=7

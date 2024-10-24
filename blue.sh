@@ -39,10 +39,22 @@ fvctl -n add-flowspace bfs31 0000000000000044 1 in_port=7 blue=7
 fvctl -n add-flowspace bfs32 0000000000000044 1 in_port=8 blue=7
 
 # L2_Agg-S17
-fvctl -n add-flowspace bfs33 0000000000000021 1 in_port=5 blue=7
-fvctl -n add-flowspace bfs34 0000000000000021 1 in_port=6 blue=7
-fvctl -n add-flowspace bfs35 0000000000000021 1 in_port=7 blue=7
-fvctl -n add-flowspace bfs36 0000000000000021 1 in_port=8 blue=7
+fvctl -n add-flowspace bfs33 0000000000000021 1 in_port=5,src=10.0.0.65 blue=7
+fvctl -n add-flowspace bfs33 0000000000000021 1 in_port=5,src=10.0.0.66 blue=7
+fvctl -n add-flowspace bfs33 0000000000000021 1 in_port=5,src=10.0.0.67 blue=7
+fvctl -n add-flowspace bfs33 0000000000000021 1 in_port=5,src=10.0.0.68 blue=7
+fvctl -n add-flowspace bfs34 0000000000000021 1 in_port=6,src=10.0.0.69 blue=7
+fvctl -n add-flowspace bfs34 0000000000000021 1 in_port=6,src=10.0.0.70 blue=7
+fvctl -n add-flowspace bfs34 0000000000000021 1 in_port=6,src=10.0.0.71 blue=7
+fvctl -n add-flowspace bfs34 0000000000000021 1 in_port=6,src=10.0.0.72 blue=7
+fvctl -n add-flowspace bfs35 0000000000000021 1 in_port=7,src=10.0.0.73 blue=7
+fvctl -n add-flowspace bfs35 0000000000000021 1 in_port=7,src=10.0.0.74 blue=7
+fvctl -n add-flowspace bfs35 0000000000000021 1 in_port=7,src=10.0.0.75 blue=7
+fvctl -n add-flowspace bfs35 0000000000000021 1 in_port=7,src=10.0.0.76 blue=7
+fvctl -n add-flowspace bfs36 0000000000000021 1 in_port=8,src=10.0.0.77 blue=7
+fvctl -n add-flowspace bfs36 0000000000000021 1 in_port=8,src=10.0.0.78 blue=7
+fvctl -n add-flowspace bfs36 0000000000000021 1 in_port=8,src=10.0.0.79 blue=7
+fvctl -n add-flowspace bfs36 0000000000000021 1 in_port=8,src=10.0.0.80 blue=7
 # L2_Agg-S18
 # fvctl -n add-flowspace bfs37 0000000000000022 1 in_port=5 blue=7
 # fvctl -n add-flowspace bfs38 0000000000000022 1 in_port=6 blue=7
@@ -58,7 +70,3 @@ fvctl -n add-flowspace bfs36 0000000000000021 1 in_port=8 blue=7
 # fvctl -n add-flowspace bfs46 0000000000000024 1 in_port=6 blue=7
 # fvctl -n add-flowspace bfs47 0000000000000024 1 in_port=7 blue=7
 # fvctl -n add-flowspace bfs48 0000000000000024 1 in_port=8 blue=7
-
-
-
-# fvctl -n add-flowspace bfs2 0000000000000031 1 in_port=3,nw_src=10.0.0.15,nw_dst=10.0.0.2 blue=7
