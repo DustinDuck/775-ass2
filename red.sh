@@ -17,10 +17,22 @@ fvctl -n add-flowspace rfs10 0000000000000045 1 in_port=8 red=7
 # eth1: L3_Core-S13-eth5
 fvctl -n add-flowspace rfs11 0000000000000024 1 in_port=1 red=7
 fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=8 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=2 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=3 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=4 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=5 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=6 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=7 red=7
 # L2_Agg-S24
 # eth1: L3_Core-S13-eth6
 fvctl -n add-flowspace rfs13 0000000000000025 1 in_port=1 red=7
 fvctl -n add-flowspace rfs14 0000000000000025 1 in_port=5 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=2 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=3 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=4 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=8 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=6 red=7
+fvctl -n add-flowspace rfs12 0000000000000024 1 in_port=7 red=7
 # L3_Core-S13
 # eth5: L2_Agg-S20-eth1
 # eth6: L2_Agg-S24-eth1
