@@ -1,0 +1,1440 @@
+Configured Flow entries: {
+    "force-enqueue": -1,
+    "name": "pfs1",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:34",
+    "id": 1359,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs2",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:34",
+    "id": 1360,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs3",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:34",
+    "id": 1361,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 2
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs8",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:35",
+    "id": 1362,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs7",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:35",
+    "id": 1363,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs6",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:35",
+    "id": 1364,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 2
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs4",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:34",
+    "id": 1365,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs5",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:34",
+    "id": 1366,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs10",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:35",
+    "id": 1367,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs9",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:35",
+    "id": 1368,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs13",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:16",
+    "id": 1369,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 2
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs14",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:16",
+    "id": 1370,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs12",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:12",
+    "id": 1371,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 2
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs11",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:12",
+    "id": 1372,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs99",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:06",
+    "id": 1373,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 1
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "pfs100",
+    "slice-action": [
+        {
+            "slice-name": "purple",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:06",
+    "id": 1374,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 2
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs3",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:41",
+    "id": 1375,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 3
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs1",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:41",
+    "id": 1376,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 1
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs2",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:41",
+    "id": 1377,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 2
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs6",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:41",
+    "id": 1378,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs5",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:41",
+    "id": 1379,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs7",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:41",
+    "id": 1380,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs4",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:41",
+    "id": 1381,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 4
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs8",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:41",
+    "id": 1382,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs9",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:42",
+    "id": 1383,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 1
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs10",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:42",
+    "id": 1384,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 2
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs11",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:42",
+    "id": 1385,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 3
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs13",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:42",
+    "id": 1386,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs12",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:42",
+    "id": 1387,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 4
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs14",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:42",
+    "id": 1388,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs15",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:42",
+    "id": 1389,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs18",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:43",
+    "id": 1390,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 2
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs17",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:43",
+    "id": 1391,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 1
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs16",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:42",
+    "id": 1392,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs20",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:43",
+    "id": 1393,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 4
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs19",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:43",
+    "id": 1394,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 3
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs21",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:43",
+    "id": 1395,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs25",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1396,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 1
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs23",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:43",
+    "id": 1397,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs24",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:43",
+    "id": 1398,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs22",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:43",
+    "id": 1399,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs28",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1400,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 4
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs26",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1401,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 2
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs29",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1402,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs27",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1403,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 3
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs32",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1404,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs31",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1405,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs30",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1406,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs34",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:21",
+    "id": 1407,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs33",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:21",
+    "id": 1408,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs36",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:21",
+    "id": 1409,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs35",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:21",
+    "id": 1410,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs37",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:22",
+    "id": 1411,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs39",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:22",
+    "id": 1412,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs40",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:22",
+    "id": 1413,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs38",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:22",
+    "id": 1414,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs41",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:23",
+    "id": 1415,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs42",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:23",
+    "id": 1416,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs43",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:23",
+    "id": 1417,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs46",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:24",
+    "id": 1418,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs44",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:23",
+    "id": 1419,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs45",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:24",
+    "id": 1420,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs47",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:24",
+    "id": 1421,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "bfs48",
+    "slice-action": [
+        {
+            "slice-name": "blue",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:24",
+    "id": 1422,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs1",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1423,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 4
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs4",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1424,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs3",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1425,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs2",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1426,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs5",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:44",
+    "id": 1427,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs6",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:45",
+    "id": 1428,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 4
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs7",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:45",
+    "id": 1429,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs8",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:45",
+    "id": 1430,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs11",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:24",
+    "id": 1431,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 1
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs9",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:45",
+    "id": 1432,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 7
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs10",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:45",
+    "id": 1433,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs12",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:24",
+    "id": 1434,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 8
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs14",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:28",
+    "id": 1435,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs13",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:28",
+    "id": 1436,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 1
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs99",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:0d",
+    "id": 1437,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 5
+    }
+}
+{
+    "force-enqueue": -1,
+    "name": "rfs100",
+    "slice-action": [
+        {
+            "slice-name": "red",
+            "permission": 7
+        }
+    ],
+    "queues": [],
+    "priority": 1,
+    "dpid": "00:00:00:00:00:00:00:0d",
+    "id": 1438,
+    "match": {
+        "wildcards": 4194302,
+        "in_port": 6
+    }
+}
