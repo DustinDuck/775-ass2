@@ -19,8 +19,8 @@ fvctl -n add-flowspace rfs1 0000000000000024 1 in_port=1 red=7
 fvctl -n add-flowspace rfs1 0000000000000024 1 in_port=8 red=7
 # L2_Agg-S24
 # eth1: L3_Core-S13-eth6
-fvctl -n add-flowspace rfs1 0000000000000024 1 in_port=1 red=7
-fvctl -n add-flowspace rfs1 0000000000000024 1 in_port=5 red=7
+fvctl -n add-flowspace rfs1 0000000000000025 1 in_port=1 red=7
+fvctl -n add-flowspace rfs1 0000000000000025 1 in_port=5 red=7
 # L3_Core-S13
 # eth5: L2_Agg-S20-eth1
 # eth6: L2_Agg-S24-eth1
